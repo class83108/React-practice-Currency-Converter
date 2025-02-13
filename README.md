@@ -47,9 +47,9 @@ This project is a simple currency converter application developed to practice Re
 
 1. Start the development server:
    ```bash
-   npm start
+   npm run dev
    ```
-2. Open your browser and navigate to `http://localhost:3000` to see the application.
+2. Open your browser and navigate to `http://localhost:5173` to see the application.
 
 ## Key Concepts
 
